@@ -9,9 +9,10 @@ Alternate project for the Udacity Android Nanodegree course.
 
 Credits
 ===========
-* Pixel Buddha - [Ballicons](http://ballicons.net/)
+* Pixel Buddha - [Ballicons](http://ballicons.net)
 * Chris Banes  - [Cheesesquare](https://github.com/chrisbanes/cheesesquare)
 * Bumptech     - [Glide](https://github.com/bumptech/glide)
+* TMDb         - [Movies API](https://www.themoviedb.org)
 
 
 Developed By
